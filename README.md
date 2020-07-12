@@ -11,7 +11,7 @@ Open "control/config.js" and add your MongoDB URI (string), local access or Atla
 # Tips
 1-1 Before run the app making sure some commands below here:
 
-  npm update
-    npm i -y
+  # npm update
+  # npm i -y
     
 1-2 Make sure right after install all neccessary packages and dependecy(Open and read "node_modules" Folder).
